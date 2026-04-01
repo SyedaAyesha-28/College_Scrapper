@@ -1,6 +1,6 @@
-# 📊 Campuspe DataScrapping Project — Enriched College Scraper
+#  Campuspe DataScrapping Project — Enriched College Scraper
 
-## 📌 Overview
+##  Overview
 
 This project uses a Python script (`v3.py`) to build a **complete contact database** of engineering colleges in Andhra Pradesh.
 
@@ -8,7 +8,7 @@ It fetches college data from the **AICTE government database**, finds official w
 
 ---
 
-## 🚀 What Does `v3.py` Do?
+##  What Does `v3.py` Do?
 
 The script performs the following:
 
@@ -23,7 +23,7 @@ The script performs the following:
 
 ---
 
-## ⚙️ Complete Workflow
+##  Complete Workflow
 
 ### Step 1 — Fetch College Data (AICTE)
 
@@ -59,7 +59,7 @@ Search format:
 - `.ac.in`
 - `.edu.in`
 
-#### 🔍 Bing URL Decoding
+####  Bing URL Decoding
 
 Bing returns encoded URLs → script:
 - Extracts Base64 data
@@ -125,7 +125,7 @@ Finds:
 
 ---
 
-### 🌐 Social Media Extraction
+###  Social Media Extraction
 
 Detects links for:
 - Facebook
@@ -146,7 +146,7 @@ Detects links for:
 
 ---
 
-## 📦 Final Output
+##  Final Output
 
 Saved as:
 
@@ -165,7 +165,7 @@ Saved as:
 
 ---
 
-## 🔄 Full Process Flow
+##  Full Process Flow
 
 1. Fetch AICTE data  
 2. Search website  
@@ -183,7 +183,7 @@ Saved as:
 
 ---
 
-## 🧰 Libraries Used
+##  Libraries Used
 
 | Library | Purpose |
 |--------|--------|
@@ -196,7 +196,7 @@ Saved as:
 
 ---
 
-## 📍 Data Source
+##  Data Source
 
 - AICTE Government Database  
 - JNTUA  
@@ -204,15 +204,15 @@ Saved as:
 
 ---
 
-## ✅ Summary
+##  Summary
 
 This script automates the entire pipeline of:
 
-👉 Data collection → Website discovery → Contact extraction → Classification → Excel output  
+ Data collection → Website discovery → Contact extraction → Classification → Excel output  
 
 ---
 
-## 💡 Use Case
+##  Use Case
 
 Perfect for:
 - Outreach campaigns  
